@@ -64,7 +64,7 @@ Architected an NFT marketplace where digital artists can thrive. Implemented IPF
 
 ## 📊 GitHub Stats That Don't Tell The Whole Story
 
-![GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=Eric-Johnson-1&theme=react-dark)
+![GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=Eric-Johnson-1&theme=github-dark)
 
 *Stats are cool, but they don't show the hours debugging a smart contract at 3 AM or the joy when you finally get that complex state management working just right.*
 
