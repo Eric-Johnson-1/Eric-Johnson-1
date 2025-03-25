@@ -62,6 +62,12 @@ Conjured a staking platform where your tokens work for you while you sleep. Inte
 ### 🖼️ NFT Marketplace
 Architected an NFT marketplace where digital artists can thrive. Implemented IPFS for decentralized storage because your digital art deserves better than a centralized server that could disappear tomorrow.
 
+## 📊 GitHub Stats That Don't Tell The Whole Story
+
+![GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=Eric-Johnson-1&theme=react-dark)
+
+*Stats are cool, but they don't show the hours debugging a smart contract at 3 AM or the joy when you finally get that complex state management working just right.*
+
 ## 🧘‍♂️ When Not Coding...
 
 You'll find me exploring nature, cycling through new cities, or deep in meditation trying to visualize Ethereum's state trie. Yes, I'm that kind of blockchain enthusiast!
