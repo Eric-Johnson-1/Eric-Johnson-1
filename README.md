@@ -141,13 +141,13 @@ Conjured a IDO & staking platform where your tokens work for you while you sleep
 
 Architected an NFT marketplace where digital artists can thrive. Implemented IPFS for decentralized storage because your digital art deserves better than a centralized server that could disappear tomorrow.
 
-### 💚 HopeDAO — Decentralized Mutual Aid Crowdfunding
+### 💚 HopeDAO
 
-Built a DAO-powered crowdfunding platform where every donation is matched with on-chain quadratic funding — because helping people shouldn't require trusting a middleman. Gasless onboarding means your grandma can donate without ever knowing what "gas fees" are.
+Brewed a DAO-powered wishing well where every donation magically multiplies through the arcane art of on-chain quadratic funding. Because saving the world shouldn't require paying a toll to Web2 overlords! Sprinkled with enough Account Abstraction fairy dust so even your grandma can fund public goods without sacrificing her sanity to MetaMask or mainnet gas fees.
 
-### 💉 MedBadge — Blockchain Vaccination Records
+### 💉 MedBadge
 
-Turned flimsy paper vaccination booklets into permanent, encrypted soulbound tokens on Base L2. Your health data, your keys, your rules — and if you ever want to be forgotten, it's one IPFS unpin away from GDPR bliss.
+Cast a level 9 protection spell on flimsy paper vaccination booklets, transmuting them into cryptographically indestructible Soulbound Tokens on Base L2. Your health data is finally locked in your own personal vault—and if you ever wish to vanish into the digital shadows, it's merely one cheeky IPFS unpin away. GDPR compliance has never felt this much like dark magic!
 
 ## 📊 GitHub Stats That Don't Tell The Whole Story
 
