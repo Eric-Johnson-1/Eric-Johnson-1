@@ -2,7 +2,7 @@
 
 > _In a world of centralized solutions, be the decentralized revolution you want to see_
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-eric--johnson--web3.top-8A2BE2?style=for-the-badge&logo=safari&logoColor=white)](https://eric-johnson-web3.top)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eric--johnson--web3.top-8A2BE2?style=for-the-badge&logo=safari&logoColor=white)](https://eric-johnson-1.github.io/Portfolio)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eric_johnson_web3)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:eric.johnson.dev123@gmail.com)
 
@@ -163,4 +163,4 @@ You'll find me exploring nature, cycling through new cities, or deep in meditati
 
 > "The best way to predict the future is to build it... on a blockchain." - Me, probably after too much coffee
 
-_For a deeper dive into my blockchain journey, check out [my portfolio](https://eric-johnson-web3.top). Open to remote Web3 opportunities worldwide. Let's redefine what's possible in the decentralized world!_
+_For a deeper dive into my blockchain journey, check out [my portfolio](https://eric-johnson-1.github.io/Portfolio). Open to remote Web3 opportunities worldwide. Let's redefine what's possible in the decentralized world!_
