@@ -16,7 +16,7 @@ pragma solidity ^0.8.20;
 
 contract AboutEric {
     string public mission = "Building the decentralized future, one block at a time";
-    uint256 public web3ExperienceYears = 3;
+    uint256 public web3ExperienceYears = 4;
     uint256 public web2ExperienceYears = 2;
     bool public openToWork = true;
     string public portfolio = "https://eric-johnson-web3.top";
